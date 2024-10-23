@@ -1,0 +1,7 @@
+C:\Users\MEDİCO\Source\Repos\miniAtm\miniAtm\bin\Debug\miniAtm.exe.config
+C:\Users\MEDİCO\Source\Repos\miniAtm\miniAtm\bin\Debug\miniAtm.exe
+C:\Users\MEDİCO\Source\Repos\miniAtm\miniAtm\bin\Debug\miniAtm.pdb
+C:\Users\MEDİCO\Source\Repos\miniAtm\miniAtm\obj\Debug\miniAtm.csproj.AssemblyReference.cache
+C:\Users\MEDİCO\Source\Repos\miniAtm\miniAtm\obj\Debug\miniAtm.csproj.CoreCompileInputs.cache
+C:\Users\MEDİCO\Source\Repos\miniAtm\miniAtm\obj\Debug\miniAtm.exe
+C:\Users\MEDİCO\Source\Repos\miniAtm\miniAtm\obj\Debug\miniAtm.pdb
